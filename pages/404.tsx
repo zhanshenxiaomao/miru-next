@@ -6,7 +6,7 @@ export default function Error404() {
     return (
         <>
             <Head>
-                <title>404 Not Found</title>
+                <tmiru-next的第三方托管。>
             </Head>
             <div className="flex h-screen flex-col items-center justify-center">
                 <h1 className="mb-3 text-2xl">404 Not Found</h1>
